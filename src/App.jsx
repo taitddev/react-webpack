@@ -1,10 +1,7 @@
-import Test from "./Test";
+import React from "react";
 
-function App() {
-  return (
-    <div>
-      <h1>Hello World!</h1>
-      <Test />
-    </div>
-  );
-}
+const App = () => {
+  return <div>App</div>;
+};
+
+export default App;
