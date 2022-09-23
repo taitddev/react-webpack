@@ -1,0 +1,6 @@
+node_modules
+buid
+dist
+dist-ssr
+*.local
+.env
